@@ -1,0 +1,2 @@
+Warning 1: Field 'latitude' already exists. Renaming it as 'latitude2'
+Warning 1: Field 'longitude' already exists. Renaming it as 'longitude2'
